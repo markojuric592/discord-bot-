@@ -1,0 +1,8 @@
+{
+  "antispam": true,
+  "antinuke": true,
+  "kaznaRoleId": "ID_ULOGE_KAZNA",
+  "kaznaKanalId": "ID_KANALA_KAZNE",
+  "welcomeKanalId": "ID_KANALA_DOBRODOSLI",
+  "autoRoleId": "ID_ULOGE_MEMBER"
+}
